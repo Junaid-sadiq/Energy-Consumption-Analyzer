@@ -1,8 +1,3 @@
-BASE_URL = 'https://api.openweathermap.org/data/2.5/weather?'
-API_KEY = '7f00b05b360761ff63776605f6f40a52'
-FORECAST_URL = 'https://api.openweathermap.org/data/2.5/forecast?'
-BASE_URL_ONECALL = 'https://api.openweathermap.org/data/3.0/onecall/day_summary'
-API_KEY_ONECALL = 'c8f27e89cbba235ff0109763faf939d6'
 
 
 colors = {

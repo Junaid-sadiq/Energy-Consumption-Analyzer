@@ -3,7 +3,8 @@
 <img src="./assets/1st.png" alt="Energy Consumption Analyzer" width="750">
 
 ## About
-The Energy Consumption Analyzer is an MVC desktop application built in Python, designed to help users track and analyze electricity consumption data in Finland. It integrates multiple APIs to provide insights into energy usage patterns, correlating them with weather conditions.
+The Energy Consumption Analyzer is an MVC desktop application built in Python, designed to help users track and analyze electricity consumption data in Finland. It integrates multiple APIs to provide insights into energy usage patterns, correlating them with weather conditions. This is the group assignment for the Software Design course for Tampere Univerity and included 4 Team members including: Junaid Sadiq, Mubashir Saeed, Apanishile Johnson and Arslan Shahab
+ 
 
 ## Key Features
 - Real-time weather data integration through the OpenWeatherMap API.

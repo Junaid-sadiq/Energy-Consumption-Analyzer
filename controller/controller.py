@@ -2,22 +2,6 @@ class Controller:
     def __init__(self, model, view):
         self.model = model
         self.view = view
-        # self.view.render_main_window(self.model.get_main_window_configs())
-        # self.view.render_screen(self.model.get_sidebar_configs())
-        # self.view.render_sidebar()
-
-        # Register event handlers for user interactions
-        #self.view.bind_daily_button(self.fetch_and_display_daily_data)
-        #self.view.bind_monthly_button(self.fetch_and_display_monthly_data)
-        #self.view.bind_yearly_button(self.fetch_and_display_yearly_data)
-        #self.view.bind_login_button(self.handle_login)
-        #self.view.bind_settings_button(self.handle_settings)
-
-    # When user chooses the Daily View, handler calls data fetching and then displays the result
-    # This should maybe be Weekly instead of Daily?
-    '''def fetch_and_display_electricity_price(self, city):
-        price_data = self.model.fetch_day_ahead_prices(city)
-        self.view.display_electricity_price(price_data)'''
 
     def fetch_and_display_daily_data(self):
         start_date, end_date = self.calculate_start_end_dates("daily")
