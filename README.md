@@ -26,7 +26,7 @@ The Energy Consumption Analyzer is an MVC desktop application built in Python, d
 - [x] To install the necessary dependencies/pacakges run the following command in the terminal:
 - [ ] pip install -r requirements.txt
 - [ ] Once the requirements have been installed, run "python .\energy_consumption_analyzer.py" inside the project folder using windows Command 
-
+- [ ] add environment variable for openWeather regular and OneCall API, Entsoe API & Fingrid API
 
 
 
