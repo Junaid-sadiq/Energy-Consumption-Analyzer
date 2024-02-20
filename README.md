@@ -1,10 +1,5 @@
 # Energy Consumption Analyzer (ECA)
-<h1 align="center">
-<img
-    width="250"
-    alt=" Energy Consumption Analyzer (ECA)"
-    src="./assets/dark_logo.png">
-</h1>
+
 <img src="./assets/1st.png" alt="Energy Consumption Analyzer" width="750">
 
 ## About
