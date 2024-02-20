@@ -1,6 +1,6 @@
 # Energy Consumption Analyzer (ECA)
 
-![Alt text for the image](/assets/1st.png")
+![Dashboard](/assets/1st.png")
 
 ## About
 The Energy Consumption Analyzer is an MVC desktop application built in Python, designed to help users track and analyze electricity consumption data in Finland. It integrates multiple APIs to provide insights into energy usage patterns, correlating them with weather conditions.
@@ -18,7 +18,7 @@ The Energy Consumption Analyzer is an MVC desktop application built in Python, d
 **STARTING APPLICATION INSTRUCTIONS**
 
 - [ ] Make sure you have python v3.9 or higher installed
-- [ ] clone this repo using: git@course-gitlab.tuni.fi:comp.se.110-software-design_2023-2024/c_java_scala_3-5.git
+- [ ] clone this repo using: [https://github.com/Junaid-sadiq/Energy-Consumption-Analyzer-.git]
 - [ ] Move to the approciate directory: cd<your_dir_folder>
 - [ ] package required to run application:
 - [ ] tkinter, customtkinter, pillow, matplotlib, requests,python_dotenv, entsoe-py
