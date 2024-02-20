@@ -24,6 +24,6 @@ myenv/  # Replace 'myenv' with the name of your virtual environment directory
 pip-wheel-metadata/
 
 #adding ignore for .env, to activate remove #below
-#.env
+.env
 
 
