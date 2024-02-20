@@ -1,0 +1,29 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+__init__.pyc
+__init__.pyo
+
+# Virtual environment (if you're using venv or virtualenv)
+myenv/  # Replace 'myenv' with the name of your virtual environment directory
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Dependency directories (if using pip)
+pip-wheel-metadata/
+
+#adding ignore for .env, to activate remove #below
+#.env
+
+

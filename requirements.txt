@@ -1,0 +1,7 @@
+tk
+customtkinter
+Pillow
+matplotlib
+requests
+python_dotenv
+entsoe-py
