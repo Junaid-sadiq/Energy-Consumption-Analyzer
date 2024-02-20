@@ -1,6 +1,6 @@
 # Energy Consumption Analyzer (ECA)
 
-![Dashboard](/assets/1st.png")
+<img src="./assets/1st.png" alt="Energy Consumption Analyzer" width="500">
 
 ## About
 The Energy Consumption Analyzer is an MVC desktop application built in Python, designed to help users track and analyze electricity consumption data in Finland. It integrates multiple APIs to provide insights into energy usage patterns, correlating them with weather conditions.
